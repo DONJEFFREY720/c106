@@ -25,7 +25,7 @@ body
   }
 
   
-  .copy_right_footer {
+  #coppy_right_footer {
    position: fixed;
    color: #6c757d;
    bottom: 0;
